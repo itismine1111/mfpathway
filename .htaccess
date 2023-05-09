@@ -1,0 +1,10 @@
+# DO NOT REMOVE. CLOUDLINUX PASSENGER CONFIGURATION BEGIN
+PassengerAppRoot "/home/dev13ivantechnol/mypafway.dev13.ivantechnology.in"
+PassengerBaseURI "/"
+PassengerPython "/home/dev13ivantechnol/virtualenv/mypafway.dev13.ivantechnology.in/3.9/bin/python3.9"
+PassengerAppLogFile "/home/dev13ivantechnol/mypafway.dev13.ivantechnology.in/app_error.log"
+# DO NOT REMOVE. CLOUDLINUX PASSENGER CONFIGURATION END
+# DO NOT REMOVE OR MODIFY. CLOUDLINUX ENV VARS CONFIGURATION BEGIN
+<IfModule Litespeed>
+</IfModule>
+# DO NOT REMOVE OR MODIFY. CLOUDLINUX ENV VARS CONFIGURATION END
